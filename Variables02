@@ -1,0 +1,31 @@
+#Variables02
+
+name1 = "Josiah1"
+name2 = "Josiah2"
+name3 = "Josiah3"
+name4 = "Josiah4"
+name5 = "Josiah5"
+
+print("Names")
+print("")
+print(name1)
+print(name2)
+print(name3)
+print(name4)
+print(name5)
+
+print("---------------------------------------------")
+
+town1 = "Norbury"
+town2 = "Shrublands"
+town3 = "Bromley"
+town4 = "Croydon"
+town5 = "Coulsdon"
+
+print("Towns")
+print("")
+print(town1)
+print(town2)
+print(town3)
+print(town4)
+print(town5)
