@@ -1,0 +1,10 @@
+#Variables 
+
+name = "Josiah"
+#This is a variable
+#The variable is called "name"
+#The varaible called "name"
+#contains some data
+
+print(name)
+
