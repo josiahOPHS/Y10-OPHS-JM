@@ -1,0 +1,10 @@
+# Data types explained
+
+#Data types for this GCSE
+#CRIBS
+
+Character = "y"
+RealFloat = 3.1415927
+Integer = 420
+Boolean = False
+String = "sdvfg234"
