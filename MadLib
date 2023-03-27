@@ -1,0 +1,11 @@
+#------------------------------------------------------------- welcoming
+print("this my show")
+print("we will let u choose what happens at our show tonight")
+#------------------------------------------------------------- explaining
+print("")
+print("there are 3 parts to what we will be") 
+print("doing tongight and youre deciding.")
+#------------------------------------------------------------- variables
+print("")
+print("what is the first thing you woulike to happen?")
+part1 = input("(it has to be reasonable): ")
