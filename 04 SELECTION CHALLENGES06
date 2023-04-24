@@ -1,0 +1,9 @@
+Age = int(input("How old are you?"))
+if Age >=18:
+    print("you can vote")
+if Age == 17:
+    print("you can learn how to drive")
+if Age  == 16:
+    print("you can buy a lottery ticket")
+if Age <=16:
+    print("you can go trick or treating")
