@@ -1,0 +1,8 @@
+control = 'y'
+count = 0
+while control == 'y':
+    name = input("who would you like to invite?:")
+    print(name,"has been invited") 
+    count = count+1
+    control = input("would you like to continue? y/n")
+print("you invited",count,"people")
