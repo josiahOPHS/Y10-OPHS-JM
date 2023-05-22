@@ -1,0 +1,12 @@
+a = 1
+b = 2
+stringA = str(a)
+stringB = str(b)
+#casting is converting one
+#data type to another
+c = stringA + StringB
+print(c)
+#since you cannot add string,
+#the plus sign is now a
+#concatenation sign
+#(squashes strings together)
