@@ -1,0 +1,4 @@
+name = input("enter name:")
+count = int(input("enter a number:"))
+for i in range(count):
+    print(name)
